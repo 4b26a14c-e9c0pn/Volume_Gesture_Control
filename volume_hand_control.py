@@ -7,7 +7,7 @@ import handTrackingModule as htm
 
 import math
 
-# pychaw library helps us to change volume of our computer
+# pycaw library helps us to change volume of our computer
 
 
 #################
