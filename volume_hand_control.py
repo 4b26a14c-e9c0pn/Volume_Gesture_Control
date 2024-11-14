@@ -21,7 +21,7 @@ pTime = 0
 
 detector = htm.handDetector(detectionCon=0.8)
 
-# pychaw
+# pycaw
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 devices = AudioUtilities.GetSpeakers()
